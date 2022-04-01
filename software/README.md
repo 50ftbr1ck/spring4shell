@@ -18,3 +18,4 @@ This page contains an overview of software (un)affected by the Spring4shell vuln
 |F5|All product||Not applicable|Under investigation||https://support.f5.com/csp/article/K11510688|
 |F5|NGINX (all products)||Not applicable|Not Vulnerable||https://support.f5.com/csp/article/K11510688|
 |Trend Micro |All product||Unknown|Under investigation||https://success.trendmicro.com/dcx/s/solution/000290730?language=en_US|
+|Alphatron Medical|Twiin gateways|Uses Spring Framework|Under investigation|||
